@@ -17,3 +17,7 @@
 ## :computer: Tech Skills
 ## :mag_right: Soft Skills
 ## :ledger: Books, Blogs and Webinars
+
+---------
+
+<p align="center"><img src="https://user-images.githubusercontent.com/122294284/219984340-432a6a4e-6f59-4125-b9ca-efb6094ad0d9.jpg" width="50%" height="50%"></p>
