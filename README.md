@@ -9,14 +9,69 @@
 ## :floppy_disk: Projects
 ### :small_orange_diamond: Test Cases - example
 ### :small_orange_diamond: Test Report - example
-### :small_orange_diamond: Bag Report - example
-### :small_orange_diamond: JIRA - Bag Report - example
+### :small_orange_diamond: Bug Report - example
+### :small_orange_diamond: JIRA - Bug Report - example
 ### :small_orange_diamond: SQL tasks
 ## :mortar_board: Courses
 ## :wrench: Tools
+- **IntelliJ IDEA** - an Integrated Development Environment (IDE) for Java and Kotlin designed to maximize developer productivity
+- **PostreSQL** - an open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance
+- **GitHub** - a platform for hosting code that allows for version control and collaboration
+- **GIT** - a distributed version control system used for tracking changes in computer files
+- **Jira + XRay** - an enterprise planning platform that connects product, program, and portfolio strategy to technical execution
+- **BrowserStack** - a cloud web and mobile testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
+- **Slack** - a messaging app for business that connects people to the information they need
 ## :computer: Tech Skills
+- knowledge of **testing procedures** and the creation of **test documentation**
+  
+  - test cases
+  - bug reports
+  - test plans
+- knowledge of **Syllabus ISTQB** Foundation level
+- solid fundamentals of **Java programming**
+- **SQL** knowledge
+- understanding of project management methodologies (e.g. **Agile, Kanban, Scrum**)
+- **DevTools** knowledge
+- communicative **English**
 ## :mag_right: Soft Skills
+:triangular_ruler: accuracy and precision
+
+:chart_with_upwards_trend: desire for continuous self-development
+
+:dart: critical thinking
+
+:bulb: problem solving and analytical skills
+
+:package: thinking outside the box
+
+:calendar: well organized and sticking to deadlines
+
+:no_entry: assertive
+
+:rocket: proactive and motivated attitude
+
+:thumbsup: team player
+
+
 ## :ledger: Books, Blogs and Webinars
+:notebook_with_decorative_cover: [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
+
+:notebook_with_decorative_cover: [Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
+
+:notebook_with_decorative_cover: [Testowanie Oprogramowania - Prodręcznik dla początkujących (Rafał Pawlak)](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
+
+:bookmark_tabs: [ISTQB® Certyfikowany Tester - Poziom Podstawowy w. 4.0 - Sylabus](https://sjsi.org/ist-qb/do-pobrania/)
+
+:bookmark: [pwicherski.gitbook.io/testowanie-oprogramowania/](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+
+:bookmark: [remigiuszbednarczyk.pl/artykuly-dotyczace-testowania/](https://remigiuszbednarczyk.pl/artykuly-dotyczace-testowania)
+
+:bookmark: [wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
+
+:bookmark: [testerzy.pl/](https://testerzy.pl/)
+
+:bookmark: [tester.milenabednarczyk.pl/](https://tester.milenabednarczyk.pl/)
+
 
 ---------
 
