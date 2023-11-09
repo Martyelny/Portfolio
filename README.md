@@ -2,7 +2,8 @@
 ## :crystal_ball: About me
 
 ### <p align="center"><a href="https://www.linkedin.com/in/marta-pustelny/" target="_b lank">:link: Visit my <b>LinkedIn</b></a></p>
-<p align="center"><img src="https://github.com/Martyelny/Portfolio/blob/main/Wavy_Bus-15_Single-03.jpg?raw=true" alt="Obraz autorstwa vectorjuice na Freepik" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/Martyelny/Portfolio/assets/115575209/7ba00276-0cf5-4c79-8ba9-fef8c4c039ed" alt="Obraz autorstwa vectorjuice na Freepik" width="70%" height="70%"></p>
+
 
 ###### <p align="center"><a href="https://www.freepik.com/free-vector/software-testing-programmer-cartoon-character-with-magnifier-looking-defects-programme-application-software-bugs-errors-risks-vector-isolated-concept-metaphor-illustration_12083317.htm#query=testing%20wector&position=25&from_view=search&track=ais">Image by vectorjuice on Freepik</a>
 
@@ -12,6 +13,8 @@
 ### :small_orange_diamond: Bug Report - example
 ### :small_orange_diamond: JIRA - Bug Report - example
 ### :small_orange_diamond: SQL tasks
+  - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
+  - [SQL - interview task (polish)]()
 ## :mortar_board: Courses
 ## :wrench: Tools
 - **IntelliJ IDEA** - an Integrated Development Environment (IDE) for Java and Kotlin designed to maximize developer productivity
