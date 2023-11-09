@@ -14,7 +14,7 @@
 ### :small_orange_diamond: JIRA - Bug Report - example
 ### :small_orange_diamond: SQL tasks
   - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
-  - [SQL - interview task (polish)]()
+  - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
 ## :mortar_board: Courses
 ## :wrench: Tools
 - **IntelliJ IDEA** - an Integrated Development Environment (IDE) for Java and Kotlin designed to maximize developer productivity
