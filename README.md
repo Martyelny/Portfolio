@@ -16,6 +16,47 @@
   - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
   - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
 ## :mortar_board: Courses
+:white_square_button: **Workshop for junior testers** - QualityIsland
+
+:calendar: November 2023
+
+:white_square_button: **Software Testing in Practice** - Udemy
+
+:calendar: October 2023 - November 2023 (**2 months**)
+- writing test cases,
+- creating test plans,
+- reporting of detected bugs,
+- devtools,
+- Jira + XRay
+- functional testing of applications,
+- visual testing of applications,
+- requirements specification.
+ 
+:white_square_button: **Workshop Zajavka - Advanced Java programming**
+
+:calendar: April 2023 - January 2024 (**10 months**)
+  - functional programming,
+  - generics,
+  - databases,
+  - unit tests,
+  - design principles & patterns,
+  - GIT,
+  - Spring,
+  - ORM & Hibernate,
+  - concurrency.
+
+:white_square_button: **Bootcamp Zajavka - Fundamentals of Java Programming**  
+
+:calendar: December 2022 - March 2023 (**4 months**)
+- object-oriented programming
+- debugging
+- exceptions,
+- collections,
+- Java memory model,
+- core Java Api,
+- refactoring.
+
+
 ## :wrench: Tools
 - **IntelliJ IDEA** - an Integrated Development Environment (IDE) for Java and Kotlin designed to maximize developer productivity
 - **PostreSQL** - an open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance
@@ -76,6 +117,6 @@
 :bookmark: [tester.milenabednarczyk.pl/](https://tester.milenabednarczyk.pl/)
 
 
----------
+<p align="center"><img src="https://github.com/Martyelny/Portfolio/assets/115575209/3e8873a2-4d67-49cd-987f-9439d5acb3a4" width="50%" height="50%"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/122294284/219984340-432a6a4e-6f59-4125-b9ca-efb6094ad0d9.jpg" width="50%" height="50%"></p>
+###### <p align="center"><a href="https://www.freepik.com/free-vector/thank-you-placard-concept-illustration_34680457.htm#query=thank%20you&position=0&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p>
