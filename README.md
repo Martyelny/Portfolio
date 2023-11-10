@@ -112,7 +112,7 @@
 
 :bookmark: [wyszkolewas.com.pl/blog/](https://www.wyszkolewas.com.pl/blog/)
 
-:bookmark: [testerzy.pl/](https://testerzy.pl/)
+:bookmark: [testuj.pl/](https://testuj.pl/blog/)
 
 :bookmark: [tester.milenabednarczyk.pl/](https://tester.milenabednarczyk.pl/)
 
