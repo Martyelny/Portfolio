@@ -11,7 +11,6 @@
 ### :small_orange_diamond: Test Cases - example
 ### :small_orange_diamond: Test Report - example
 ### :small_orange_diamond: Bug Report - example
-### :small_orange_diamond: JIRA - Bug Report - example
 ### :small_orange_diamond: SQL tasks
   - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
   - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
