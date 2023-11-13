@@ -8,6 +8,10 @@
 ###### <p align="center"><a href="https://www.freepik.com/free-vector/software-testing-programmer-cartoon-character-with-magnifier-looking-defects-programme-application-software-bugs-errors-risks-vector-isolated-concept-metaphor-illustration_12083317.htm#query=testing%20wector&position=25&from_view=search&track=ais">Image by vectorjuice on Freepik</a>
 
 ## :floppy_disk: Projects
+### :small_orange_diamond: Postman tasks
+### :small_orange_diamond: SQL tasks
+  - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
+  - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
 ### :small_orange_diamond: Test Cases - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
 - [Test cases for the shopping cart functionality](https://docs.google.com/spreadsheets/d/1rIK3U-yXQ0Efk6Un1XIuurzMFgiVAp4e/edit?usp=sharing&ouid=115444199631836283746&rtpof=true&sd=true)
@@ -20,9 +24,7 @@
 ### :small_orange_diamond: Test Report - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
 - Test report for the shopping cart functionality
-### :small_orange_diamond: SQL tasks
-  - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
-  - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
+
 ## :mortar_board: Courses
 :white_square_button: **Workshop for junior testers** - QualityIsland
 
