@@ -10,10 +10,10 @@
 ## :floppy_disk: Projects
 ### :small_orange_diamond: Test Cases - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
-- Test cases for the shopping cart functionality
+- [Test cases for the shopping cart functionality](https://docs.google.com/spreadsheets/d/1rIK3U-yXQ0Efk6Un1XIuurzMFgiVAp4e/edit?usp=sharing&ouid=115444199631836283746&rtpof=true&sd=true)
 ### :small_orange_diamond: Bug Report - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
-- Bug report for the shopping cart functionality
+- [Bug report for the shopping cart functionality](https://docs.google.com/spreadsheets/d/1MDjq_iCi0BTbYFRP8Cbdyic4UCAtOTpO/edit?usp=sharing&ouid=115444199631836283746&rtpof=true&sd=true)
   
 *Test Environment:* 
 - Bug report - Jira
