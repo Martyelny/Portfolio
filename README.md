@@ -23,7 +23,7 @@
 - Bug report - Jira
 ### :small_orange_diamond: Test Report - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
-- Test report for the shopping cart functionality
+- [Test report for the shopping cart functionality](https://docs.google.com/document/d/1Z69BPBmlx_CL75TAQHbOQ9Xp526vEZQeaZfInvuz798/edit?usp=sharing)
 
 ## :mortar_board: Courses
 :white_square_button: **Workshop for junior testers** - QualityIsland
