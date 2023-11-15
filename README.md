@@ -20,7 +20,7 @@
 - [Bug report for the shopping cart functionality](https://docs.google.com/spreadsheets/d/1MDjq_iCi0BTbYFRP8Cbdyic4UCAtOTpO/edit?usp=sharing&ouid=115444199631836283746&rtpof=true&sd=true)
   
 *Test Environment:* 
-- Bug report - Jira
+- [Bug report - Jira](https://drive.google.com/drive/folders/1iBa-JEewRh-Mxu2SrHwnYsTuETO6Vf4-?usp=sharing)
 ### :small_orange_diamond: Test Report - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
 - [Test report for the shopping cart functionality](https://docs.google.com/document/d/1Z69BPBmlx_CL75TAQHbOQ9Xp526vEZQeaZfInvuz798/edit?usp=sharing)
