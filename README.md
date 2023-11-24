@@ -2,10 +2,7 @@
 ## :crystal_ball: About me
 
 ### <p align="center"><a href="https://www.linkedin.com/in/marta-pustelny/" target="_b lank">:link: Visit my <b>LinkedIn</b></a></p>
-<p align="center"><img src="https://github.com/Martyelny/Portfolio/assets/115575209/7ba00276-0cf5-4c79-8ba9-fef8c4c039ed" alt="Obraz autorstwa vectorjuice na Freepik" width="70%" height="70%"></p>
 
-
-###### <p align="center"><a href="https://www.freepik.com/free-vector/software-testing-programmer-cartoon-character-with-magnifier-looking-defects-programme-application-software-bugs-errors-risks-vector-isolated-concept-metaphor-illustration_12083317.htm#query=testing%20wector&position=25&from_view=search&track=ais">Image by vectorjuice on Freepik</a>
 
 ## :floppy_disk: Projects
 ### :small_orange_diamond: Postman tasks
@@ -28,11 +25,11 @@
 ## :mortar_board: Courses
 :white_square_button: **Workshop for junior testers** - QualityIsland
 
-:calendar: November 2023
+:calendar: *November 2023*
 
 :white_square_button: **Software Testing in Practice** - Udemy
 
-:calendar: October 2023 - November 2023 (**2 months**)
+:calendar: *October 2023 - November 2023 (**2 months**)*
 - writing test cases,
 - creating test plans,
 - reporting of detected bugs,
@@ -44,7 +41,7 @@
  
 :white_square_button: **Workshop Zajavka - Advanced Java programming**
 
-:calendar: April 2023 - January 2024 (**10 months**)
+:calendar: *April 2023 - January 2024 (**10 months**)*
   - functional programming,
   - generics,
   - databases,
@@ -57,7 +54,7 @@
 
 :white_square_button: **Bootcamp Zajavka - Fundamentals of Java Programming**  
 
-:calendar: December 2022 - March 2023 (**4 months**)
+:calendar: *December 2022 - March 2023 (**4 months**)*
 - object-oriented programming
 - debugging
 - exceptions,
@@ -73,6 +70,7 @@
 - **GitHub** - a platform for hosting code that allows for version control and collaboration
 - **GIT** - a distributed version control system used for tracking changes in computer files
 - **Jira + XRay** - an enterprise planning platform that connects product, program, and portfolio strategy to technical execution
+- **Postman** - an API platform for building and using APIs
 - **BrowserStack** - a cloud web and mobile testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
 - **Slack** - a messaging app for business that connects people to the information they need
 ## :computer: Tech Skills
@@ -84,6 +82,7 @@
 - knowledge of **Syllabus ISTQB** Foundation level
 - solid fundamentals of **Java programming**
 - **SQL** knowledge
+- **API** testing
 - understanding of project management methodologies (e.g. **Agile, Kanban, Scrum**)
 - **DevTools** knowledge
 - communicative **English**
