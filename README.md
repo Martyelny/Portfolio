@@ -6,7 +6,7 @@
 
 ## :floppy_disk: Projects
 ### :small_orange_diamond: Postman tasks
-  - [Trello REST API testing with Postman](https://github.com/Martyelny/Portfolio/blob/5f8430cb7eddc55131fa50560fced0447d78a0cd/Trello%20REST%20API%20testing%20with%20Postman.md)
+  - [Trello REST API testing with Postman](https://github.com/Martyelny/REST-API-Trello/tree/main)
 ### :small_orange_diamond: SQL tasks
   - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
   - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
