@@ -2,7 +2,7 @@
 ## :crystal_ball: About me
 I am a graduate of a master's degree in architecture. While I was still in college, I took up the study of programming and it drew me in completely. **Why did I graduate?** When I start something I finish it with an 5 on my diploma. For more than a year I learned Java programming which was a great challenge, I tried different Java related roles, but nothing captivated me as much as software testing.
 
-**Why do I love being a software tester?** I can use my **creativity** to find new ways to "break" something in software or use it in unusual ways. As a person, I have a high degree of **empathy**, which I can use to put myself in someone's shoes and look at the software under test through their eyes. Thanks to my strengths such as **accuracy**, **good organization** and **analytical thinking**, I can find shortcomings, typos, logical and functional errors with **high precision**. And what's more, as a tester, I can raise and keep an eye on **software quality**.
+**Why do I love being a software tester?** I can use my **creativity** to find new ways to "break" something in software or use it in unusual ways. As a person, I have a high level of **empathy**, which I can use to put myself in someone's shoes and look at the software under test through their eyes. Thanks to my strengths such as **accuracy**, **good organization** and **analytical thinking**, I can find shortcomings, typos, logical and functional errors with **high precision**. And what's more, as a tester, I can raise and keep an eye on **software quality**.
 ### <p align="center"><a href="https://www.linkedin.com/in/marta-pustelny/" target="_b lank">:link: Visit my <b>LinkedIn</b></a></p>
 
 
