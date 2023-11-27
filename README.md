@@ -30,6 +30,14 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 
 :calendar: *November 2023*
 
+- tester's responsibilities,
+- independent software testing,
+- types of software testing,
+- tester's documentation,
+- bug reporting,
+- scenarios and test cases,
+- test automation vs manual testing.
+
 :eight_pointed_black_star: **Software Testing in Practice** - Udemy
 
 :calendar: *October 2023 - November 2023 (**2 months**)*
