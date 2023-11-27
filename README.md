@@ -22,7 +22,7 @@
 - [Test report for the shopping cart functionality](https://docs.google.com/document/d/1Z69BPBmlx_CL75TAQHbOQ9Xp526vEZQeaZfInvuz798/edit?usp=sharing)
 
 ## :mortar_board: Courses
-:scroll: [**View my Certificates**](https://drive.google.com/drive/folders/1AsB4SE7zJ0b8cycFj4hdEIvGe5F1N09X?usp=sharing) :scroll:
+### :scroll: [**View my Certificates**](https://drive.google.com/drive/folders/1AsB4SE7zJ0b8cycFj4hdEIvGe5F1N09X?usp=sharing) :scroll:
 
 :eight_pointed_black_star: **Workshop for junior testers** - QualityIsland
 
