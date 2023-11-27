@@ -132,6 +132,3 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 :bookmark: [tester.milenabednarczyk.pl/](https://tester.milenabednarczyk.pl/)
 
 
-<p align="center"><img src="https://github.com/Martyelny/Portfolio/assets/115575209/3e8873a2-4d67-49cd-987f-9439d5acb3a4" width="50%" height="50%"></p>
-
-###### <p align="center"><a href="https://www.freepik.com/free-vector/thank-you-placard-concept-illustration_34680457.htm#query=thank%20you&position=0&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p>
