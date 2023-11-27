@@ -5,30 +5,28 @@
 
 
 ## :floppy_disk: Projects
-### :small_orange_diamond: Postman tasks
+### :heavy_check_mark: Postman tasks
   - [Trello REST API testing with Postman](https://github.com/Martyelny/REST-API-Trello/tree/main)
-### :small_orange_diamond: SQL tasks
+### :heavy_plus_sign: SQL tasks
   - [SQL - web store project (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20web%20store%20project%20(polish).md)
   - [SQL - interview task (polish)](https://github.com/Martyelny/Portfolio/blob/main/SQL%20-%20interview%20task%20(polish).md)
-### :small_orange_diamond: Test Cases - example
+### :heavy_minus_sign: Test Cases - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
 - [Test cases for the shopping cart functionality](https://docs.google.com/spreadsheets/d/1rIK3U-yXQ0Efk6Un1XIuurzMFgiVAp4e/edit?usp=sharing&ouid=115444199631836283746&rtpof=true&sd=true)
-### :small_orange_diamond: Bug Report - example
+### :heavy_multiplication_x: Bug Report - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
 - [Bug report for the shopping cart functionality](https://docs.google.com/spreadsheets/d/1MDjq_iCi0BTbYFRP8Cbdyic4UCAtOTpO/edit?usp=sharing&ouid=115444199631836283746&rtpof=true&sd=true)
   
-*Test Environment:* 
-- [Bug report - Jira](https://drive.google.com/drive/folders/1iBa-JEewRh-Mxu2SrHwnYsTuETO6Vf4-?usp=sharing)
-### :small_orange_diamond: Test Report - example
+### :ballot_box_with_check: Test Report - example
 *Test Environment:* https://test.testowanie-oprogramowania.pl/
 - [Test report for the shopping cart functionality](https://docs.google.com/document/d/1Z69BPBmlx_CL75TAQHbOQ9Xp526vEZQeaZfInvuz798/edit?usp=sharing)
 
 ## :mortar_board: Courses
-:white_square_button: **Workshop for junior testers** - QualityIsland
+:eight_pointed_black_star: **Workshop for junior testers** - QualityIsland
 
 :calendar: *November 2023*
 
-:white_square_button: **Software Testing in Practice** - Udemy
+:eight_pointed_black_star: **Software Testing in Practice** - Udemy
 
 :calendar: *October 2023 - November 2023 (**2 months**)*
 - writing test cases,
@@ -40,7 +38,7 @@
 - visual testing of applications,
 - requirements specification.
  
-:white_square_button: **Workshop Zajavka - Advanced Java programming**
+:eight_pointed_black_star: **Workshop Zajavka - Advanced Java programming**
 
 :calendar: *April 2023 - January 2024 (**10 months**)*
   - functional programming,
@@ -53,7 +51,7 @@
   - ORM & Hibernate,
   - concurrency.
 
-:white_square_button: **Bootcamp Zajavka - Fundamentals of Java Programming**  
+:eight_pointed_black_star: **Bootcamp Zajavka - Fundamentals of Java Programming**  
 
 :calendar: *December 2022 - March 2023 (**4 months**)*
 - object-oriented programming
@@ -83,7 +81,7 @@
 - knowledge of **Syllabus ISTQB** Foundation level
 - solid fundamentals of **Java programming**
 - **SQL** knowledge
-- **API** testing
+- **REST API** testing
 - understanding of project management methodologies (e.g. **Agile, Kanban, Scrum**)
 - **DevTools** knowledge
 - communicative **English**
