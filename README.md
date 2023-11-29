@@ -85,7 +85,7 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 - **GIT** - a distributed version control system used for tracking changes in computer files
 - **Jira + XRay** - an enterprise planning platform that connects product, program, and portfolio strategy to technical execution
 - **Postman** - an API platform for building and using APIs
-- **JMeter** - open source software, a 100% pure Java application designed to load test functional behavior and measure performance
+- **JMeter** - an open-source software, a 100% pure Java application designed to load test functional behavior and measure performance
 - **BrowserStack** - a cloud web and mobile testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
 - **Slack** - a messaging app for business that connects people to the information they need
 ## :computer: Tech Skills
