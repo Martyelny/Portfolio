@@ -123,6 +123,8 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 
 
 ## :ledger: Books, Blogs and Webinars
+Konferencja dla testerów: [QA Summit 2023](https://qasummit.pl/)
+
 :notebook_with_decorative_cover: [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 
 :notebook_with_decorative_cover: [Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
