@@ -86,6 +86,7 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 - **Jira + XRay** - an enterprise planning platform that connects product, program, and portfolio strategy to technical execution
 - **Postman** - an API platform for building and using APIs
 - **JMeter** - an open-source software, a 100% pure Java application designed to load test functional behavior and measure performance
+- **Selenium** (in progress) - an open-source automated testing framework used to validate web applications across different browsers and platforms
 - **BrowserStack** - a cloud web and mobile testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
 - **Slack** - a messaging app for business that connects people to the information they need
 ## :computer: Tech Skills
@@ -99,6 +100,7 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 - **SQL** knowledge
 - **REST API** testing
 - **performance** testing
+- **automatic** testing (in progress)
 - understanding of project management methodologies (e.g. **Agile, Kanban, Scrum**)
 - **DevTools** knowledge
 - communicative **English**
