@@ -80,13 +80,13 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 
 ## :wrench: Tools
 - **IntelliJ IDEA** - an Integrated Development Environment (IDE) for Java and Kotlin designed to maximize developer productivity
+- **Selenium** (in progress) - an open-source automated testing framework used to validate web applications across different browsers and platforms
 - **PostreSQL** - an open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance
 - **GitHub** - a platform for hosting code that allows for version control and collaboration
 - **GIT** - a distributed version control system used for tracking changes in computer files
 - **Jira + XRay** - an enterprise planning platform that connects product, program, and portfolio strategy to technical execution
 - **Postman** - an API platform for building and using APIs
 - **JMeter** - an open-source software, a 100% pure Java application designed to load test functional behavior and measure performance
-- **Selenium** (in progress) - an open-source automated testing framework used to validate web applications across different browsers and platforms
 - **BrowserStack** - a cloud web and mobile testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
 - **Slack** - a messaging app for business that connects people to the information they need
 ## :computer: Tech Skills
