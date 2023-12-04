@@ -125,7 +125,7 @@ I am a graduate of a master's degree in architecture. While I was still in colle
 
 
 ## :ledger: Books, Blogs and Webinars
-:woman_technologist: Conference for testers: [QA Summit 2023](https://qasummit.pl/)
+🎙️ Conference for testers: [QA Summit 2023](https://qasummit.pl/)
 
 :notebook_with_decorative_cover: [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 
